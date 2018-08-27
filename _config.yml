@@ -1,26 +1,24 @@
-title: Wendell Thomas
+title: Ambrosio, JOse
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Git hub pages showcase website.
 baseurl: "/monday" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
+name: Ambrosio, Jose
 tagline: Full Stack Developer
-about-description: # Add Discription
+about-description: I'm a Web Developer with an interest in Android Development and Machine Learning.
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: jjambrosio1@gmail.com # Add your Email address
+phone: 323 404 8222 # Add your Phone number
+website: J-Ambrosio.com # Add your website, do not add http://
+linkedin: jose-ambrosio-16a179152/ # Add your Linkedin handle
+github: BtmnAmbrosio # Add your Github handle
+twitter: '@btmn_Ambrosio' # Add your Twitter handle
 
 # Tracker
 analytics:
