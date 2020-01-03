@@ -1,12 +1,6 @@
 # The Monday Jekyll theme
 =========================
 
-Dark Theme:
-![](assets/img/documentation/dark.png)
-
-Light Theme:
-![](assets/img/documentation/light.png)
-
 # Demo
 View this jekyll theme in action [here](http://artemsheludko.pw/monday/)
 
